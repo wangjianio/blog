@@ -72,3 +72,4 @@ window.addEventListener('blur', function() {
 
 如果点击了一个 a 标签，但是它绑定的 touchend 事件调用了 event.preventDefault()，此时会触发 blur 事件，但不会切换 activeElement
 
+另外如果只需要访问一个 url 的话还可以使用 css。
