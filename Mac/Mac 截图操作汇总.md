@@ -11,4 +11,4 @@
 
 ## 系统自带 App：抓图
 
-参考： [](http://www.ifanr.com/app/546621)[http://www.ifanr.com/app/546621](http://www.ifanr.com/app/546621)
+参考：[http://www.ifanr.com/app/546621](http://www.ifanr.com/app/546621)
